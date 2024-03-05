@@ -2,13 +2,13 @@ export default function ContactMe() {
   return (
     <section id="Contact" className="contact--section">
       <div>
-        <p className="sub--title">Get In Touch</p>
         <h2>Contact Me</h2>
-        <p className="text-lg">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, odit.
-        </p>
       </div>
-      <form className="contact--form--container">
+      <form
+        className="contact--form--container"
+        action="https://formspree.io/f/xqkrlkpk"
+        method="POST"
+      >
         <div className="container">
           <label htmlFor="first-name" className="contact--label">
             <span className="text-md">First Name</span>
@@ -55,9 +55,9 @@ export default function ContactMe() {
           <span className="text-md">Choose a topic</span>
           <select id="choose-topic" className="contact--input text-md">
             <option>Select One...</option>
-            <option>Item 1</option>
-            <option>Item 2</option>
-            <option>Item 3</option>
+            <option>job</option>
+            <option>collaboration</option>
+            <option>help</option>
           </select>
         </label>
         <label htmlFor="message" className="contact--label">
@@ -65,10 +65,13 @@ export default function ContactMe() {
           <textarea
             className="contact--input text-md"
             id="message"
+            name="message" 
             rows="8"
             placeholder="Type your message..."
+            required
           />
         </label>
+
         <label htmlFor="checkboc" className="checkbox--label">
           <input type="checkbox" required name="checkbox" id="checkbox" />
           <span className="text-sm">I accept the terms</span>

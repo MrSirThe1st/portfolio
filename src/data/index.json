@@ -2,50 +2,79 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/atom.png",
+      "title": "React native",
+      "description": "I possess hands-on experience in developing, testing, and deploying cross-platform applications using React Native"
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/js.png",
+      "title": "Javascript",
+      "description": "I possess proficiency in JavaScript, particularly in ES6, leveraging its modern features to develop interactive and efficient modile applications."
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/atom.png",
+      "title": "React js",
+      "description": "I have expertise in React.js, utilizing its powerful library to build dynamic and responsive front-end interfaces for web applications."
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/node-js.png",
+      "title": "Node js",
+      "description": "I'm skilled in Node.js, using it to create strong and expandable backend systems for mobile apps."
+    },
+    {
+      "id": "5",
+      "src": "./img/Firebase.png",
+      "title": "Firebase",
+      "description": "I have experience working with Firebase, utilizing its functionalities to create dynamic and responsive databases for both web and mobile platforms."
+    },
+    {
+      "id": "6",
+      "src": "./img/redux.svg",
+      "title": "Redux",
+      "description": "I've utilized Redux, employing its state management capabilities to streamline data flow within my applications and ensure efficient communication between components."
+    },
+    {
+      "id": "7",
+      "src": "./img/github-icon-1.svg",
+      "title": "Git/Github",
+      "description": "I've experience using github to manage code repositories, track project progress, and enable efficient collaboration among team members, ensuring smooth development workflows."
+    },
+    {
+      "id": "8",
+      "src": "./img/visual-studio-code-1.svg",
+      "title": "java ,C, python",
+      "description": "During my diploma in computer engineering, I studied a range of technology stacks, including C, Java, and Python, enriching my knowledge of software development"
+    },
+    {
+      "id": "9",
+      "src": "./img/docker-4.svg",
+      "title": "Docker",
+      "description": "I've learned to containerize applications efficiently, streamlining deployment processes and ensuring consistent performance across various environments using docker."
+    },
+    {
+      "id": "10",
+      "src": "./img/expo-1.svg",
+      "title": "Expo",
+      "description": "Utilizing Expo, I've unlocked the power of rapid prototyping and development in React Native, leveraging its extensive library of tools and resources to accelerate app creation and testing."
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/collage.png",
+      "title": "Lashes App",
+      "description": "Selling platform for women soon available on playtore and appleStore, the app is still in its 14 days testing phase required by playstor(the apk file is available to download)",
+      "link": "https://github.com/MrSirThe1st/LashesV0"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
-    },
-    {
-      "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/MyDay.jpg",
+      "title": "My Day",
+      "description": "Upcoming wedding vendors app, the app is still underway and will count as my second major project",
+      "link": "https://github.com/MrSirThe1st/MyDay"
     }
   ],
   "testimonial": [
