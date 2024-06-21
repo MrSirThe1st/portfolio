@@ -23,12 +23,11 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero--section-description">
-            I am a mobile developer who specializes in React Native.
-            🎓computer engineering graduate from the cape peninsula university
-            of technology in south africa, I take products from concepts to fully functional
-            solutions. Over the past few years, I have dedicated myself to
-            cross-platform development, continuously learning, experimenting,
-            and refining my skills, take a look at some of my projects below
+            I am a React Native mobile developer and a computer engineering
+            graduate from Cape Peninsula University of Technology in South
+            Africa. I transform concepts into fully functional solutions. Over
+            the years, I've focused on cross-platform development.
+            Check out some of my projects below.
             <br />
           </p>
         </div>

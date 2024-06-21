@@ -88,18 +88,15 @@ function Navbar() {
           </li>
         </ul>
       </div>
-      <Link
+      <a
         onClick={closeMenu}
         activeClass="navbar--active-content1"
-        spy={true}
-        smooth={true}
-        offset={-70}
-        duration={500}
-        to="Contact"
         className="btn btn-outline-primary"
+        href="/resume/cv.pdf"
+        download="cv.pdf"
       >
-        Contact Me
-      </Link>
+        Download Resume
+      </a>
     </nav>
   );
 }
