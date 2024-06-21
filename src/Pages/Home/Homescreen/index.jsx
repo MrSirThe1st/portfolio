@@ -12,7 +12,6 @@ export default function Home() {
       <HeroSection />
       <MySkills />
       <MyPortfolio />
-      <AboutMe />
       <ContactMe />
       <Footer />
     </>

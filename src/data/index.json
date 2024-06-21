@@ -64,43 +64,37 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/collage.png",
-      "title": "Lashes App",
-      "description": "Selling platform for women soon available on playtore and appleStore, the app is still in its 14 days testing phase required by playstor(the apk file is available to download)",
-      "link": "https://github.com/MrSirThe1st/LashesV0"
+      "videos": [
+        {
+          "src": "./videos/video1.mp4",
+          "title": "Lashes buyer",
+          "description": "sthis is the buyer side of a selling platform made using react native, javascript, expo and firebase for backend",
+          "link": "https://github.com/MrSirThe1st/LashesV0"
+        },
+        {
+          "src": "./videos/video4.mp4",
+          "title": "Lashes auth",
+          "description": "this is the authentication process for the 2 users role, sellers and buyers",
+          "link": "https://github.com/MrSirThe1st/LashesV0"
+        },
+        {
+          "src": "./videos/video2.mp4",
+          "title": "Lashes seller",
+          "description": "this sellor side of a selling platform. the same technologies were used on this platform, with a slightly more complex development curve",
+          "link": "https://github.com/MrSirThe1st/LashesV0"
+        }
+      ]
     },
     {
       "id": "2",
-      "src": "./img/MyDay.jpg",
-      "title": "My Day",
-      "description": "Upcoming wedding vendors app, the app is still underway and will count as my second major project",
-      "link": "https://github.com/MrSirThe1st/MyDay"
-    }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "videos": [
+        {
+          "src": "./videos/video3.mp4",
+          "title": "Haven",
+          "description": "this shows an app that use AI to generate biblical verses depending on the user input, for which a chatgpt assistant was used",
+          "link": "https://github.com/MrSirThe1st/Haven"
+        }
+      ]
     }
   ]
 }
